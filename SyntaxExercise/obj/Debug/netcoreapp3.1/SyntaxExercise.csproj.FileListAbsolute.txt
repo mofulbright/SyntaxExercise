@@ -1,0 +1,14 @@
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.exe
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.deps.json
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.runtimeconfig.json
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.runtimeconfig.dev.json
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.dll
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\bin\Debug\netcoreapp3.1\SyntaxExercise.pdb
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.csproj.AssemblyReference.cache
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.AssemblyInfoInputs.cache
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.AssemblyInfo.cs
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.csproj.CoreCompileInputs.cache
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.dll
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.pdb
+C:\Users\Morgan\Desktop\Repos\SyntaxExercise\SyntaxExercise\obj\Debug\netcoreapp3.1\SyntaxExercise.genruntimeconfig.cache
